@@ -1,7 +1,6 @@
-# Modified Ox Inventory Files for ND Framework v2.0
-To get things working smoothly, three files contained in the bridge and MySQL modules had to be modified so that `ox_inventory` could speak to the correct table structure in `ND_Core`.
-
-These files are included in this repository. 
+![OBSOLETE!](https://www.davedorm.com/images/obsolete.png)
+# This is no longer needed to install ND Framework
+To facilitate testing of v2 of the ND Framework, three files contained in the bridge and MySQL modules had to be modified so that `ox_inventory` could speak to the correct table structure in `ND_Core`. These files were modified in a pull request to `ox_inventory`. Now that this has been merged, the files included in this repository are no longer required. I am keeping them here as an archive for now.
 
 ## Directions
 
@@ -20,7 +19,7 @@ These files are included in this repository.
 
 ✅ Restart your server.
 
-## Need help?
+### Need help?
 Check out the **Andy's Development Discord Server**
 
 ![Andyyy's Development Discord](https://discordapp.com/api/guilds/857672921912836116/widget.png?style=banner2)
